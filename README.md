@@ -19,11 +19,11 @@
 2. [Technologies](#technologies)
 
 ## General Info
-This project named "SistemaGestionAgricola" is a web sistem made with MySQL, Node and React js.
+Project named "SistemaGestionAgricola" is a web sistem made with MySQL, Node and React js.
 
 The emphasis of the app is the agro management with de point of view of the farmer.
 
-This project is part of the university course 'Project', developed during the second semester of the Sciences Computer Engineering program. This system was developed from analysis, design, and programming phases, starting in August 2023.
+This project is part of the university course 'Project', developed during the second semester of the Sciences Computer Engineering program. It was developed from analysis, design, and programming phases, starting in August 2023.
 
 ## Technologies
 A list of technologies used within the project:
