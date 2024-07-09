@@ -1,5 +1,5 @@
 
- <img src="https://github.com/camj10/Sistema-web/master/client/src/img/login.jpeg" alt="Login" width="500px">
+ <img src="https://github.com/camj10/Sistema-web/blob/main/client/src/img/login.jpeg" alt="Login" width="500px">
   <img src="https://github.com/camj10/Sistema-web/master/client/src/img/navbarProductos.jpeg" alt="navbarProductos" width="500px">
   <img src="https://github.com/camj10/Sistema-web/master/client/src/img/navbarReportes.jpeg" alt="navbarReportes" width="500px">
   <img src="https://github.com/camj10/Sistema-web/master/client/src/img/addParcela.jpeg" alt="addParcela" width="500px">
