@@ -1,0 +1,9 @@
+.container-lista{
+    background-color: rgb(226, 212, 194);
+    padding: 100px;
+    margin: 50px;
+    /* border-radius: 5%; */
+}
+.tab-lista{
+    background-color: white;
+}  

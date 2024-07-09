@@ -1,0 +1,14 @@
+/* Navbar.css */
+.navbar-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around; /* Ajusta según tus necesidades */
+    align-items: center;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar-list li {
+    margin: 0;
+  }
+  
