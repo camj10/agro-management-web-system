@@ -1,16 +1,16 @@
 
- <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/login.jpeg" alt="Login" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/navbarProductos.jpeg" alt="navbarProductos" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/navbarReportes.jpeg" alt="navbarReportes" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/addParcela.jpeg" alt="addParcela" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/addIngreso.jpeg" alt="addIngreso" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/egresosList.jpeg" alt="egresosList" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/mapView.jpeg" alt="mapView" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/stockEnSilos.jpeg" alt="stockEnSilos" width="500px">
-   <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/searchStockEnSilos.jpeg" alt="searchStockEnSilos" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/zafrasList.jpeg" alt="zafrasList" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/reporteEgresos.jpeg" alt="reporteEgresos" width="500px">
-  <img src="https://github.com/camj10/Sistema-web/blob/master/client/src/img/resumenReportes.jpeg" alt="resumenReportes" width="500px">
+ <img src="https://github.com/camj10/Sistema-web/master/client/src/img/login.jpeg" alt="Login" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/navbarProductos.jpeg" alt="navbarProductos" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/navbarReportes.jpeg" alt="navbarReportes" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/addParcela.jpeg" alt="addParcela" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/addIngreso.jpeg" alt="addIngreso" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/egresosList.jpeg" alt="egresosList" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/mapView.jpeg" alt="mapView" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/stockEnSilos.jpeg" alt="stockEnSilos" width="500px">
+   <img src="https://github.com/camj10/Sistema-web/master/client/src/img/searchStockEnSilos.jpeg" alt="searchStockEnSilos" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/zafrasList.jpeg" alt="zafrasList" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/reporteEgresos.jpeg" alt="reporteEgresos" width="500px">
+  <img src="https://github.com/camj10/Sistema-web/master/client/src/img/resumenReportes.jpeg" alt="resumenReportes" width="500px">
    
 
 
