@@ -19,7 +19,7 @@
 2. [Technologies](#technologies)
 
 ## General Info
-This project named "SistemaGestionAgricola" is a web sistem made with MariaDb, Node and React js.
+This project named "SistemaGestionAgricola" is a web sistem made with MySQL, Node and React js.
 
 The emphasis of the app is the agro management with de point of view of the farmer.
 
