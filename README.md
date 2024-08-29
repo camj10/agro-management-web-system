@@ -18,6 +18,7 @@ A list of technologies used within the project:
 * **Node.js**
 * **Express**
 * **MySQL DB**
+* **Openstreetmap**
 
 
 
